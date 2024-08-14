@@ -1,1 +1,0 @@
-﻿D:\School\CS 330 Comp Graphic and Visualization 24EW3\Final\Final.vcxproj(70,5): error MSB4019: The imported project "D:\School\Graphics_x64.props" was not found. Confirm that the expression in the Import declaration "..\..\Graphics_x64.props" is correct, and that the file exists on disk.
